@@ -1,0 +1,1 @@
+export PATH=/usr/local/git/bin:/usr/local/sbin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/sameer/Documents/Development/MongoDB/bin :/opt/X11/bin:/usr/local/git/bin:/usr/texbin
